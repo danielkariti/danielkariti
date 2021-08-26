@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring | C# | EntityFramework | PHP | Node.JS | ExpressJS
+- 💻 &nbsp; Java | Spring | C# | EntityFramework | PHP | Node.JS
 - 🌐 &nbsp; Angular | React | TypeScript | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Visual Studio Code | Eclipse | Git | IntelliJ
