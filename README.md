@@ -16,8 +16,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring | C# | PHP | Node.js | EntityFramework | Express.js
-- 🌐 &nbsp; Angular | React | TypeScript | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Java | TypeScript | JavaScript | PHP | C# | HTML | CSS
+- ⚙️ &nbsp; Spring |  Node.js | Express.Js | EntityFramework | External APIs
+- 🌐 &nbsp; Angular | React | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Visual Studio Code | Eclipse | Git | IntelliJ
 
