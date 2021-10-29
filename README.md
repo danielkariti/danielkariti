@@ -16,11 +16,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | TypeScript | JavaScript | PHP | C# | HTML | CSS
+- 💻 &nbsp; Java | TypeScript | JavaScript | C# 
 - ⚙️ &nbsp; Spring |  Node.js | Express.Js | .NET Core | External APIs
 - 🌐 &nbsp; Angular 8+ | React | Bootstrap | Hibernate | RxJs | REST | Serverless
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Visual Studio Code | Eclipse | Git | IntelliJ
+- 🔧 &nbsp; Visual Studio Code | Git | Linux | GitHub Actions CI-CD
 - ☁️ &nbsp; AWS | S3 | Lambda | EC2 | Cognito | CloudWatch
 
 </br>
