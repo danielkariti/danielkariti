@@ -16,12 +16,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | TypeScript | JavaScript | C# 
-- ⚙️ &nbsp; Spring |  Node.js | Express.Js | .NET Core | External APIs
-- 🌐 &nbsp; Angular 8+ | React | Bootstrap | Hibernate | RxJs | REST | Serverless
-- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
-- 🔧 &nbsp; Visual Studio Code | Git | Linux | GitHub Actions CI-CD
-- ☁️ &nbsp; AWS | S3 | Lambda | EC2 | Cognito | CloudWatch
+- 💻 &nbsp; Typescript | Javascript | Java | C# 
+- ⚙️ &nbsp;  Node.js | Express.Js | Spring | .NET Core | External APIs
+- 🌐 &nbsp; React Native | React | Angular | Redux | RxJs | REST
+- 🛢 &nbsp; MondoDB | MySQL | PostgreSQL | Firestore
+- 🔧 &nbsp; Git | Linux | GitHub Actions CI-CD | Unit Testing
+- ☁️ &nbsp; AWS | S3 | Serverless Lambda | EC2 
+- 🐳 &nbsp; Docker | Kubernetes | GCP
+- 🔑 &nbsp; Cognito | FirebaseAuth
+- 
 
 </br>
 
