@@ -24,7 +24,6 @@
 - ☁️ &nbsp; AWS | S3 | Serverless Lambda | EC2 
 - 🐳 &nbsp; Docker | Kubernetes | GCP
 - 🔑 &nbsp; Cognito | FirebaseAuth
-- 
 
 </br>
 
