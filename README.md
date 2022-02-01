@@ -19,7 +19,7 @@
 - 💻 &nbsp; Typescript | Javascript | Java | C# 
 - ⚙️ &nbsp;  Node.js | Express.Js | Spring | .NET Core | External APIs
 - 🌐 &nbsp; React Native | React | Angular | Redux | RxJs | REST
-- 🛢 &nbsp; MondoDB | MySQL | PostgreSQL | Firestore
+- 🛢 &nbsp; MongoDB | MySQL | PostgreSQL | Firestore
 - 🔧 &nbsp; Git | Linux | GitHub Actions CI-CD | Unit Testing
 - ☁️ &nbsp; AWS | S3 | Serverless Lambda | EC2 
 - 🐳 &nbsp; Docker | Kubernetes | GCP
