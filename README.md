@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently deepening my knowledge about Angular framework and everything around it
+- 🔭 &nbsp; I’m currently deepening my knowledge about software architecture and everything around it
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Fullstack developer.
 - 🌱 &nbsp; Enthusiastic about Artificial Intelligence .
