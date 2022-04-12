@@ -21,9 +21,9 @@
 - 🌐 &nbsp; React Native | React | Angular | Redux | RxJs | REST
 - 🛢 &nbsp; MongoDB | MySQL | PostgreSQL | Firestore
 - 🔧 &nbsp; Git | Linux | GitHub Actions CI-CD | Unit Testing
-- ☁️ &nbsp; AWS | S3 | Serverless Lambda | EC2 
-- 🐳 &nbsp; Docker | Kubernetes | GCP
-- 🔑 &nbsp; Cognito | FirebaseAuth
+- ☁️ &nbsp; AWS | GCP | Azure 
+- 🐳 &nbsp; Docker | Kubernetes | Serverless | EC2
+- 🔑 &nbsp; AWS Cognito | Firebase Auth | Azure AD
 
 </br>
 
