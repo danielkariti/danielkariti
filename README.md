@@ -22,7 +22,7 @@
 - 🛢 &nbsp; MongoDB | MySQL | PostgreSQL | Firestore
 - 🔧 &nbsp; Git | Linux | GitHub Actions CI-CD | Unit Testing
 - ☁️ &nbsp; AWS | GCP | Azure 
-- 🐳 &nbsp; Docker | Kubernetes | Serverless | EC2
+- 🐳 &nbsp; Docker | Kubernetes | Serverless | EC2 | RabbitMQ
 - 🔑 &nbsp; AWS Cognito | Firebase Auth | Azure AD
 
 </br>
