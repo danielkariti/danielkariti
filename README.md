@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Typescript | Javascript | Java | C# 
-- ⚙️ &nbsp;  Node.js | Express.Js | Spring | .NET Core | External APIs
+- ⚙️ &nbsp;  Node.js | Express.Js | Spring | .NET | External APIs
 - 🌐 &nbsp; React Native | React | Angular | Redux | RxJs | REST
 - 🛢 &nbsp; MongoDB | MySQL | PostgreSQL | Firestore
 - 🔧 &nbsp; Git | Linux | GitHub Actions CI-CD | Unit Testing
